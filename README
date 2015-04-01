@@ -1,5 +1,7 @@
 # Default is "World"
 # Author: Walter Alfaro (walfaro@uncc.edu)
+#This is the Hello World example from the git tutorial.
+
 name = ARGV.first || "World"
 
 puts "hello, #{name}!"
